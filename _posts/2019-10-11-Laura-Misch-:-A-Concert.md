@@ -2,7 +2,7 @@
 layout: post
 title:  "Laura Misch: Concert"
 date:   2019-10-11 12:07:22 +0200
-categories: Laura-Misch concert music different-thinker
+tags: Laura-Misch concert music different-thinker
 ---
 
 **Laura Misch** is not famous (*yet*) but promising young artist from London. Her style is electronic, ambient, a little jazzy and has saxophone in it.
